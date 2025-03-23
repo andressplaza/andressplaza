@@ -27,7 +27,7 @@ En mi tiempo libre, soy **atleta de Crossfit** 🏋️‍♂️, lo que me ayuda
 
 ¡Aquí tienes un vistazo a mis contribuciones en GitHub! 😎
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tu-usuario-de-github&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andressplaza&show_icons=true&theme=radical)
 
 ## 🚀 Proyectos destacados
 
