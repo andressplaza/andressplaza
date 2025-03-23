@@ -33,7 +33,7 @@ En mi tiempo libre, soy **atleta de Crossfit** 🏋️‍♂️, lo que me ayuda
 
 Puedes encontrar algunos de mis proyectos más interesantes en mi [repositorio de GitHub](https://github.com/tu-usuario-de-github) 👨‍💻
 
-- [Proyecto 1](https://github.com/tu-usuario-de-github/proyecto1)
+- [Ágora Red Social](https://github.com/andressplaza/agora-red-social)
 - [Proyecto 2](https://github.com/tu-usuario-de-github/proyecto2)
 
 ## ✨ ¿Por qué elegir trabajar conmigo?
